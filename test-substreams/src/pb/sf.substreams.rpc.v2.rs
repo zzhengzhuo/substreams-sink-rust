@@ -284,5 +284,4 @@ pub mod store_delta {
         }
     }
 }
-include!("sf.substreams.rpc.v2.tonic.rs");
 // @@protoc_insertion_point(module)
